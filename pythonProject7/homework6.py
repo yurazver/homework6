@@ -1,5 +1,6 @@
 print('Словари')
 my_dict = {'Yurii': 1992, 'Lana': 1980, 'Vlasta': 2009}
+print(my_dict)
 print(my_dict.get('Yurii'))
 print(my_dict.get('Stepan'))
 my_dict.update({'Bro' : 1992 , 'Mama' : 1966})
